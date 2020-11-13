@@ -24,3 +24,7 @@
 - [M3銅柱 25mm+6mm x4](https://m.tb.cn/h.4WnzbGR?sm=001e3f)
 - [M3銅柱 30mm+6mm x4](https://m.tb.cn/h.4WnzbGR?sm=001e3f)
 - [TT馬達固定架](https://m.tb.cn/h.4eYFZ7Z?sm=70c89d)
+
+## 下一步
+
+寫入程式 [Arduino Code](../firmware/README.md)
