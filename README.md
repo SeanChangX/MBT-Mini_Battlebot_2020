@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> |
+  <a href="README_EN.md">English</a> |
   <span>繁體中文</span>
 </p>
 
@@ -20,6 +20,6 @@
 
 ## 開始製作
 
-- 創造自己的機器人 [CAD](cad/README_CN.md)
-- 寫入程式 [Arduino Code](firmware/README_CN.md)
-- 控制端設置 [Blynk配置](blynk/README_CN.md)
+- 創造自己的機器人 [CAD](cad/README.md)
+- 寫入程式 [Arduino Code](firmware/README.md)
+- 控制端設置 [Blynk配置](blynk/README.md)
