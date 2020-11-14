@@ -14,7 +14,7 @@
 **請點擊右上方的QR Code ICON**
 
 <a>
-  <img align="center" alt="Blynk APP" width="100%" src="docs/images/blynk001.jpg" />
+  <img align="center" alt="Blynk APP" width="100%" src="../docs/images/blynk001.jpg" />
 </a>
 
 ## 
@@ -22,7 +22,7 @@
 接下來您將看到以下畫面👇
 
 <a>
-  <img align="center" alt="Blynk APP" width="100%" src="docs/images/blynk002.jpg" />
+  <img align="center" alt="Blynk APP" width="100%" src="../docs/images/blynk002.jpg" />
 </a>
 
 以下有兩種方式進行操作
@@ -30,7 +30,7 @@
 - 匯入QR Code[圖檔](../docs/images/blynk003.jpg)(點擊右上方**文件ICON**)
 
 <a>
-  <img align="center" alt="Blynk APP" width="100%" src="docs/images/blynk003.jpg" />
+  <img align="center" alt="Blynk APP" width="100%" src="../docs/images/blynk003.jpg" />
 </a>
 
 
