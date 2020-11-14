@@ -31,7 +31,3 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 - 是否選擇了正確的**序列埠(COM)**
 - 開發板是否選擇了**NodeMCU 1.0(ESP-12E Module)**
-
-## 下一步
-
-控制端設置 [Blynk配置](../blynk/README.md)
