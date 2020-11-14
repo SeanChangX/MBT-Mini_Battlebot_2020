@@ -25,6 +25,25 @@ Tools
 開發板管理員網址(ESP8266) 👇 \
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
+## 修改程式碼
+
+在這個階段您需要設定您的Mini Battlebot所將要連接的**AP**，以及[上一步](../blynk/README.md)所獲得的**Token**
+
+__在“ ”中貼上您的Project Token__
+```ruby
+12      // You should get Auth Token in the Blynk App. 
+13      // Go to the Project Settings (nut icon). 
+14      char auth[] = "";
+```
+
+__在“ ”中貼上您AP的SSID及密碼__
+```ruby
+17      // Your WiFi credentials. 
+18      // Set password to "" for open networks. 
+19      char ssid[] = ""; 
+20      char pass[] = ""; 
+```
+
 ## 上傳程式碼
 
 在上傳程式碼之前請務必確認以下幾點:
