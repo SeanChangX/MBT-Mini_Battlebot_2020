@@ -14,7 +14,7 @@
 **請點擊右上方的QR Code ICON**
 
 <a>
-  <img align="center" alt="Blynk APP" width="60%" src="../docs/images/blynk001.jpg" />
+  <img align="center" alt="Blynk APP" width="30%" src="../docs/images/blynk001.jpg" />
 </a>
 
 ## 
