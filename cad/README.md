@@ -27,4 +27,4 @@
 
 ## 下一步
 
-寫入程式 [Arduino Code](../firmware/README.md)
+控制端設置 [Blynk配置](../blynk/README.md)
