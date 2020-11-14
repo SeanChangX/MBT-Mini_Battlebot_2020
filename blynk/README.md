@@ -30,7 +30,7 @@
 - 匯入QR Code[圖檔](../docs/images/blynk003.jpg)(點擊右上方**文件ICON**)
 
 <a>
-  <img align="center" alt="Blynk APP" width="100%" src="../docs/images/blynk003.jpg" />
+  <img align="center" alt="Blynk APP" width="100%" src="../docs/images/blynk003.png" />
 </a>
 
 
