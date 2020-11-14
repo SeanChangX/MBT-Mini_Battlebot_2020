@@ -25,6 +25,15 @@
 - [M3銅柱 30mm+6mm x4](https://m.tb.cn/h.4WnzbGR?sm=001e3f)
 - [TT馬達固定架](https://m.tb.cn/h.4eYFZ7Z?sm=70c89d)
 
+選用材料 👇
+- 360舵機
+> 木板
+> 壓克力板
+
+## 未來
+
+- [ ]我們將推出一體式3D列印版本，使外觀更多變。
+
 ## 下一步
 
 控制端設置 [Blynk配置](../blynk/README.md)
