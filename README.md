@@ -21,5 +21,5 @@
 ## 開始製作
 
 - 創造自己的機器人 [CAD](cad/README.md)
-- 寫入程式 [Arduino Code](firmware/README.md)
 - 控制端設置 [Blynk配置](blynk/README.md)
+- 寫入程式 [Arduino Code](firmware/README.md)
