@@ -29,4 +29,4 @@
 ## MBTC - MiniBattleboTCompetition
 
 ### 歷年比賽
-[2020 MBTC](docs/MBTC/2020/2020_MBTC.md)
+= [2020 MBTC](docs/MBTC/2020/2020_MBTC.md) =
