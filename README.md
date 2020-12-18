@@ -33,6 +33,6 @@
 
 ## 快速下載
 
-- [程式碼](/Mini_Battlebot_2020/Mini_Battlebot_2020.ino)
+- [程式碼](firmware/Mini_Battlebot_2020/Mini_Battlebot_2020.ino)
 - [機器人CAD]()
 - [場地CAD]()
