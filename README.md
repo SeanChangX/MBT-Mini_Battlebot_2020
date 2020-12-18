@@ -34,5 +34,5 @@
 ## 快速下載
 
 - [程式碼](firmware/Mini_Battlebot_2020/Mini_Battlebot_2020.ino)
-- [機器人CAD]()
+- [機器人CAD](https://grabcad.com/library/mini-battlebot-2020-1)
 - [場地CAD]()
