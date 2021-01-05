@@ -8,7 +8,8 @@
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/SeanChangX/MBT-Mini_Battlebot_2020"></a>
    <img alt="GitHub forks" src="https://img.shields.io/github/forks/SeanChangX/MBT-Mini_Battlebot_2020"></a>
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/SeanChangX/MBT-Mini_Battlebot_2020"></a>
-   <img alt="Github size" src="https://img.shields.io/github/repo-size/SeanChangX/MBT-Mini_Battlebot_2020"></a>
+   <img alt="Github size" src="https://img.shields.io/github/repo-size/SeanChangX/MBT-Mini_Battlebot_2020">
+   </a>![GitHub all releases](https://img.shields.io/github/downloads/SeanChangX/MBT-Mini_Battlebot_2020/total)
 </p>
 
 <p align="center">
