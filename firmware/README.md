@@ -37,7 +37,7 @@ __在“ ”中貼上您的Project Token__
 14      char auth[] = "";
 ```
 
-__在“ ”中貼上您AP的SSID及密碼__
+__在“ ”中貼上您AP的SSID及密碼__ (此在v1.0.0中已廢除  使用WiFiManager_MBTX所替代)
 ```c#
 17      // Your WiFi credentials. 
 18      // Set password to "" for open networks. 
