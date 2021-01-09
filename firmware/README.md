@@ -5,7 +5,7 @@
   <span>繁體中文</span>
 </p>
 
-在這個階段您將要寫入[控制程式](MBT_v0.0.0/MBT_v0.0.0.ino)或自行撰寫程式到Mini Battlebot中。
+在這個階段您將要寫入[控制程式](MBT_v1.0.0/MBT_v1.0.0.ino)或自行撰寫程式到Mini Battlebot中。
 
 ## 安裝程式庫
 
