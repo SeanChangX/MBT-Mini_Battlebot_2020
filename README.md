@@ -34,6 +34,6 @@
 
 ## 快速下載
 
-- [程式碼](firmware/MBT_v0.0.0/MBT_v0.0.0.ino)
+- [程式碼](firmware/MBT_v1.0.0/MBT_v1.0.0.ino)
 - [機器人CAD](https://grabcad.com/library/mini-battlebot-2020-1)
 - [場地CAD](cad/BattleGround.stp)
