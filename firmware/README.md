@@ -16,7 +16,8 @@ Tools
 └─── Manage Libraries
 ```
 
-- [blynk-library](https://github.com/blynkkk/blynk-library)
+- [blynk-library](https://github.com/blynkkk/blynk-library) [v0.0.0以上]
+- []
 
 ## 新增開發板
 
