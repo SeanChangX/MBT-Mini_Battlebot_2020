@@ -16,8 +16,8 @@ Tools
 └─── Manage Libraries
 ```
 
-- [blynk-library](https://github.com/blynkkk/blynk-library) [v0.0.0以上]
-- []
+- [blynk-library](https://github.com/blynkkk/blynk-library) (v0.0.0 以上)
+- [WiFiManager_MBTX](../libraries/WiFiManager_MBTX) (v1.0.0)
 
 ## 新增開發板
 
